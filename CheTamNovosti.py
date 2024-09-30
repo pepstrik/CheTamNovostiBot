@@ -7,10 +7,10 @@
 import telebot
 from telebot import types
 
-chat_id = -1001455307140
-admin_id = 4414554 
+chat_id = ккккк
+admin_id = ккккккк 
 
-bot = telebot.TeleBot('6258803046:AAEyAlfHMbCw810NmNsE42pTTsbgDz1vT3s')
+bot = telebot.TeleBot('кккккккк')
 
 @bot.message_handler(commands=['start'])
 def welcome(message):
