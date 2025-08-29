@@ -22,4 +22,11 @@ Python · python-telegram-bot v20 · aiosqlite · feedparser · asyncio
 ## Demo
 ![Screenshot](assets/screenshot.png)
 
+---
+
+![CI](https://github.com/pepstrik/CheTamNovostiBot/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
 > See [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) for portfolio disclaimer.
