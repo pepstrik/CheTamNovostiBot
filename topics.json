@@ -1,0 +1,12 @@
+{
+  "topics": [
+    "python",
+    "telegram-bot",
+    "python-telegram-bot",
+    "podcast",
+    "automation",
+    "aiosqlite",
+    "feedparser"
+  ],
+  "about": "Подкаст-бот: поиск/расписание/автопост."
+}
