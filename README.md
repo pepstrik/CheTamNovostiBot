@@ -19,15 +19,15 @@ Python · python-telegram-bot v20 · aiosqlite · feedparser · asyncio
 
 ---
 
-![CI](https://github.com/pepstrik/CheTamNovostiBot/actions/workflows/ci.yml/badge.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
----
-
 ## Demo
 ![Screenshot](assets/screenshot.png)
 
 > См. [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) для пояснения.
+
+---
+
+![CI](https://github.com/pepstrik/CheTamNovostiBot/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
