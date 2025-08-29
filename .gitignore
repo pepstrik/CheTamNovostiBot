@@ -1,0 +1,21 @@
+# Кэш питона
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Системные файлы
+.DS_Store
+
+# Конфиги и секреты
+config.py
+*.env
+.env
+
+# Базы данных
+*.sqlite
+*.sqlite3
